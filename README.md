@@ -1,18 +1,18 @@
-<h3 align="left">Hi there, name is Yoga S Devanada, nice to meet ya</h3>
+<h3 align="left">Hi there, name is Bagas Alfaristo Putra, nice to meet ya</h3>
 <div align="center">
   <img src="https://i.imgur.com/GPKodlO_d.webp?maxwidth=760&fidelity=grand" width="600em"/>
   <div>
-    <a href="https://www.linkedin.com/in/devanada/">
+    <a href="https://www.linkedin.com/in/bagasalfaristoputra/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://stackoverflow.com/users/13419480/devanada">
+    <a href="https://stackoverflow.com/users/13419480/bagasalfaristoputra">
       <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" alt="Spotify Badge"/>
     </a>
-    <a href="https://gitlab.com/devanada">
+    <a href="https://gitlab.com/bagasalfaristoputra">
       <img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=white&color=black" alt="GitLab Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=devanada&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=bagasalfaristoputra&style=flat-square&color=blue" alt=""/>
 </div>
   
 ---
@@ -24,7 +24,7 @@
     <li>Love watching movies and series</li>
     <li>Interested in Computer hardware (assemble and dissamble). PC building is my passion lol</li>
     <li>Metal, Punk, Pop, JPop, Rock, Hip-hop</li>
-    <li>You can reach me on my personal website, www.devanada.com</li>
+    <li>You can reach me on my personal website, www.bagasalfaristoputra.com</li>
   </ul>
 </div>
 
@@ -125,11 +125,11 @@
 
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
-  <a href="https://github.com/devanada">
-    <img src="https://github-readme-stats.vercel.app/api?username=devanada&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
+  <a href="https://github.com/bagasalfaristo">
+    <img src="https://github-readme-stats.vercel.app/api?username=bagasalfaristo&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
   </a>
-  <a href="https://github.com/devanada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanada&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
+  <a href="https://github.com/bagasalfaristo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasalfaristo&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
   </a>
 </div>
 
@@ -137,22 +137,22 @@
 
 <h3 align="left">:briefcase: Featured Project:</h3>
 <div align="center">
-  <a href="https://github.com/devanada/cinephile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=cinephile&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Cinephile"/>
+  <a href="https://github.com/bagasalfaristo/cinephile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=cinephile&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Cinephile"/>
   </a>
-  <a href="https://github.com/devanada/desktop-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=desktop-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Desktop App"/>
+  <a href="https://github.com/bagasalfaristo/desktop-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=desktop-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Desktop App"/>
   </a>
-  <a href="https://github.com/devanada/pokemon-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=pokemon-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Pokemon App"/>
+  <a href="https://github.com/bagasalfaristo/pokemon-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=pokemon-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Pokemon App"/>
   </a>
-  <a href="https://github.com/devanada/kitchen-sink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink"/>
+  <a href="https://github.com/bagasalfaristo/kitchen-sink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink"/>
   </a>
-  <a href="https://github.com/devanada/kitchen-sink-too">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink-too&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink React"/>
+  <a href="https://github.com/bagasalfaristo/kitchen-sink-too">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink-too&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink React"/>
   </a>
-  <a href="https://github.com/devanada/kitchen-sink-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanada&repo=kitchen-sink-next&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink Next"/>
+  <a href="https://github.com/bagasalfaristo/kitchen-sink-next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink-next&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink Next"/>
   </a>
 </div>
