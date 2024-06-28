@@ -72,42 +72,6 @@
 
 ---
 
-<h3 align="left">:desktop_computer: My Personal Computer specification:</h3>
-<div align="left">
-  <ul>
-    <li>Processor: AMD Ryzen 7 5800X</li>
-    <li>Motherboard: MSI MPG B550 Gaming Plus</li>
-    <li>Memory: Corsair Vengeance 8x4 DDR4 2666 MHz</li>
-    <li>VGA: MSI GeForce RTX 3060 Ti Gaming X 8GB DDR6 </li>
-    <li>PSU: Cooler Master MWE Bronze V2 650W</li>
-    <li>Storage:</li>
-    <ul>
-      <li>SSD Addlink S20 1TB</li>
-      <li>HDD WD 3.5" Caviar Blue 2TB</li>
-      <li>MSI SPATIUM M470 PCIe 4.0 NVMe M.2 1TB</li>
-    </ul>
-    <li>Casing: Gigabyte Aorus C300 Glass</li>
-    <li>CPU Cooler: Corsair iCUE H150i RGB Pro XT 360mm AIO + Arctic P12 PWM x3</li>
-    <li>Casing fan: Arctic P12 PWM x3</li>
-    <li>Monitor:</li>
-    <ul>
-      <li>1st | Lenovo G32qc-30 QHD </li>
-      <li>2nd | Gigabyte G24F-EK FHD</li>
-    </ul>
-    <li>Peripheral:</li>
-    <ul>
-      <li>Keyboard: Vortex Series VX7 Pro + Outemu Brown Switch</li>
-      <li>Mouse: Logitech G502 Hero</li>
-      <li>Gamepad: DualSense wireless controller</li>
-      <li>Webcam: Logitech C922</li>
-      <li>Microphone: Tascam TM-80 with Samson MBA38 Boom Arm</li>
-      <li>Speaker: Edifier R1700BT</li>
-    </ul>
-  </ul>
-</div>
-
----
-
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/bagasalfaristo">
@@ -119,25 +83,3 @@
 </div>
 
 ---
-
-<h3 align="left">:briefcase: Featured Project:</h3>
-<div align="center">
-  <a href="https://github.com/bagasalfaristo/cinephile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=cinephile&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Cinephile"/>
-  </a>
-  <a href="https://github.com/bagasalfaristo/desktop-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=desktop-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Desktop App"/>
-  </a>
-  <a href="https://github.com/bagasalfaristo/pokemon-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=pokemon-app&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Pokemon App"/>
-  </a>
-  <a href="https://github.com/bagasalfaristo/kitchen-sink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink"/>
-  </a>
-  <a href="https://github.com/bagasalfaristo/kitchen-sink-too">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink-too&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink React"/>
-  </a>
-  <a href="https://github.com/bagasalfaristo/kitchen-sink-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagasalfaristo&repo=kitchen-sink-next&show_owner=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Kitchen Sink Next"/>
-  </a>
-</div>
