@@ -1,31 +1,8 @@
-<h3 align="left">Hi there, name is Bagas Alfaristo Putra, nice to meet ya</h3>
-<div align="center">
-  <img src="https://i.imgur.com/GPKodlO_d.webp?maxwidth=760&fidelity=grand" width="600em"/>
-  <div>
-    <a href="https://www.linkedin.com/in/bagasalfaristoputra/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/13419480/bagasalfaristoputra">
-      <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" alt="Spotify Badge"/>
-    </a>
-    <a href="https://gitlab.com/bagasalfaristoputra">
-      <img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=white&color=black" alt="GitLab Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=bagasalfaristoputra&style=flat-square&color=blue" alt=""/>
-</div>
-  
 ---
 
-<h3 align="left">:man_technologist: About Me :</h3>
+<h3 align="left">About Me :</h3>
 <div align="left">
-  <ul>
-    <li>Currently working as Academic Instructor & Frontend Developer using React Native and React.js</li>
-    <li>Love watching movies and series</li>
-    <li>Interested in Computer hardware (assemble and dissamble). PC building is my passion lol</li>
-    <li>Metal, Punk, Pop, JPop, Rock, Hip-hop</li>
-    <li>You can reach me on my personal website, www.bagasalfaristoputra.com</li>
-  </ul>
+Hello, my name is Bagas Alfaristo Putra, but you can call me Bagas. I am currently undergoing training as a backend developer with a focus on Golang. I have a strong interest in backend development, web application development, and business. I am open to work opportunities.
 </div>
 
 ---
