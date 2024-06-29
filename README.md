@@ -1,13 +1,13 @@
 ---
 
-<h3 align="left">About Me :</h3>
+<h3 align="left">About Me</h3>
 <div align="left">
 Hello, my name is Bagas Alfaristo Putra, but you can call me Bagas. I am currently undergoing training as a backend developer with a focus on Golang. I have a strong interest in backend development, web application development, and business. I am open to work opportunities.
 </div>
 
 ---
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <div align="center"> 
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="go"/> 
@@ -49,7 +49,7 @@ Hello, my name is Bagas Alfaristo Putra, but you can call me Bagas. I am current
 
 ---
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
+<h3 align="left">GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/bagasalfaristo">
     <img src="https://github-readme-stats.vercel.app/api?username=bagasalfaristo&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
