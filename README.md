@@ -49,7 +49,7 @@ Hello, my name is Bagas Alfaristo Putra, but you can call me Bagas. I am current
 
 ---
 
-<h3 align="left">GitHub Analytics:</h3>
+<h3 align="left">GitHub Analytics</h3>
 <div align="center">
   <a href="https://github.com/bagasalfaristo">
     <img src="https://github-readme-stats.vercel.app/api?username=bagasalfaristo&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
